@@ -1,0 +1,35 @@
+[33mcommit ae090af039c66ebcb2bae58cc78fc8ac55aa9153[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Lafas <itsafal111@gmail.com>
+Date:   Thu Dec 8 22:11:06 2022 -0800
+
+    first
+
+[33mcommit 4b7479a1529a90edea63f058885309694d234491[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Jfranc90 <47190428+Jfranc90@users.noreply.github.com>
+Date:   Mon Dec 5 19:00:26 2022 -0800
+
+    Add files via upload
+
+[33mcommit 617ecc2c3a4ba4fb2e6e16b04a456aac1a7bbbf6[m
+Author: Gurung <agurung@calstatela.edu>
+Date:   Wed Nov 30 10:39:37 2022 -0800
+
+    completed detecting parkison's disease using XGBoost
+
+[33mcommit 79c1a8f8ae38229c7091688a225ad68f341e35fb[m
+Author: Gurung <agurung@calstatela.edu>
+Date:   Wed Nov 30 10:28:12 2022 -0800
+
+    completed detecting parkison's disease using XGBoost
+
+[33mcommit f618ad330f93744dddcdb8a57c0d228151262b0e[m
+Author: ashishgurung305 <46665510+ashishgurung305@users.noreply.github.com>
+Date:   Tue Nov 29 22:51:20 2022 -0800
+
+    Add files via upload
+
+[33mcommit 3cf2ce3c55a82f6b0ecf8f7fc4b616017ec49c14[m
+Author: ashishgurung305 <46665510+ashishgurung305@users.noreply.github.com>
+Date:   Tue Nov 29 22:50:06 2022 -0800
+
+    Initial commit
