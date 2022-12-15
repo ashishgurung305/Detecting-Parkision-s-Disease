@@ -5,7 +5,15 @@ This Python machine learning project, we  detect the presence of Parkinson’s D
 # Specific Links
 </br>
 <a href="https://github.com/ashishgurung305/Detecting-Parkision-s-Disease/blob/main/parkinsons.csv">Data</a>
-Decision Tree and KNN:- https://github.com/ashishgurung305/Detecting-Parkision-s-Disease/blob/main/ParkinsonDetectingUsingDecisionandKNN.ipynb
-Random Forest:- https://github.com/ashishgurung305/Detecting-Parkision-s-Disease/blob/main/randomforest.ipynb
-XG Boost:-  https://github.com/ashishgurung305/Detecting-Parkision-s-Disease/blob/main/DetectingParkinsonUsingXGBoost.ipynb
-Logistic Regression:-  https://github.com/ashishgurung305/Detecting-Parkision-s-Disease/blob/main/Logistic%20Regression.ipynb
+</br>
+<a href="https://github.com/ashishgurung305/Detecting-Parkision-s-Disease/blob/main/ParkinsonDetectingUsingDecisionandKNN.ipynb">Decision Tree and KNN</a>
+ 
+</br>
+<a href="https://github.com/ashishgurung305/Detecting-Parkision-s-Disease/blob/main/randomforest.ipynb">Random Forest</a>
+
+</br>
+<a href="https://github.com/ashishgurung305/Detecting-Parkision-s-Disease/blob/main/DetectingParkinsonUsingXGBoost.ipynb">XG Boost</a>
+  
+</br>
+<a href="https://github.com/ashishgurung305/Detecting-Parkision-s-Disease/blob/main/Logistic%20Regression.ipynb">Logistic Regression</a>
+
