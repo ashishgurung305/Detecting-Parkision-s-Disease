@@ -2,7 +2,7 @@
 This Python machine learning project, we  detect the presence of Parkinson’s Disease in individuals using various factors. 
 
 </br>
-# Specific Links
+# Specific Codes
 </br>
 <a href="https://github.com/ashishgurung305/Detecting-Parkision-s-Disease/blob/main/parkinsons.csv">Data</a>
 </br>
